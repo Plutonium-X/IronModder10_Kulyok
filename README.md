@@ -30,13 +30,18 @@ Jury scoring:
 
 ## Copyrights Information
 
-This modification is not developed, supported, or endorsed by BioWare™ or Interplay/BlackIsle, Overhaul, Beamdog or the Wizards of the Coast in any way.
+This modification is not developed, supported, or endorsed by BioWareâ„¢ or Interplay/BlackIsle, Overhaul, Beamdog or the Wizards of the Coast in any way.
 
 
 <hr>
 
 
 ## <a name="versions" id="versions"></a>Versions History
+
+##### Version 1.2
+
+- Added French translation for BG2EE (Deratiseur).
+
 
 ##### Version 1.1
 
