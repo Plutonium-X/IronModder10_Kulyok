@@ -2,7 +2,7 @@ BACKUP ~im10kulyok/backup~
 
 AUTHOR ~kulyok@yandex.ru~
 
-VERSION ~v1.1~
+VERSION ~v1.2~
 
 README ~im10kulyok/readme-im10kulyok.txt~
 
@@ -16,6 +16,11 @@ LANGUAGE ~Francais (traduction : Prof Errata)~
 		 ~french~
 		 ~im10kulyok/lang/french/setup.tra~
 		 ~im10kulyok/lang/french/journal.tra~
+LANGUAGE ~Francais pour BG2EE (traduction : Prof Errata)~
+		 ~frenchEE~
+		 ~im10kulyok/lang/frenchEE/setup.tra~
+		 ~im10kulyok/lang/frenchEE/journal.tra~
+		 
 		 
 
 BEGIN @0 /* Iron Modder 10, Kulyok's entry */

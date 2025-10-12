@@ -64,6 +64,10 @@ All Iron Mods can be found at http://www.pocketplane.net/ironmod
 Versions History
 ================
 
+Version 1.2
+-----------
+- Added French translation for BG2EE (Deratiseur).
+
 Version 1.1
 -----------
 - Renamed setup-im10kulyok.tp2 -> im10kulyok.tp2 to support AL|EN's "Project Infinity".
